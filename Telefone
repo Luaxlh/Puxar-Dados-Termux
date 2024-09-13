@@ -27,9 +27,8 @@ def main():
  clear()
  print("\n" + code_info + "CEP.")
  print(f'''
-{C}[{G}i{C}] Formas de operação:
-
-[{G}1{C}] Consultar CEP.
+{C}[{G}i{C}] Formas de operação:rápida 
+[{G}1{C}] Consultar CEP.80420-010.
 [{G}2{C}] Voltar.
 [{G}3{C}] {R}Sair.{C}
 ''')
